@@ -23,5 +23,10 @@
     "name": "GERMANY",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZXpscW1BWUZQUkVJYWRQWGZieGRM@149.104.110.207:22728/?outline=1",
     "countryCode": "de"
+  },
+  {
+    "name": "SINGAPORE",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZG40c3lkN09qQ3NmVVBhZnU2WGNz@130.94.41.24:47121/?outline=1",
+    "countryCode": "sg"
   }
 ]
