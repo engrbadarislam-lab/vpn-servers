@@ -40,12 +40,12 @@
     "countryCode": "gb"
   },
   {
-    "name": "DUBAI",
+    "name": "Dubai",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNUFnbTQxYnBUa3A4RU82OXZWYjl1@38.54.75.174:14124/?outline=1",
     "countryCode": "ae"
   },
   {
-    "name": "MARSEILLE",
+    "name": "Marseille",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdFV3d0hvWlJFQVA3anc3OVRUVmpO@38.60.136.173:39202/?outline=1",
     "countryCode": "fr"
   }
