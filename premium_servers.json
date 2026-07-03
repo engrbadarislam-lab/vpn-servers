@@ -13,5 +13,10 @@
     "name": "FRANCE",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbWQyUnRVM2FtVDN2d3RKV2FSY0Js@38.60.136.173:26440/?outline=1",
     "countryCode": "fr"
+  },
+  {
+    "name": "USA",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeEwxTWpTZHNLN3lJU1g1TDZPS2lv@38.54.108.163:62050/?outline=1",
+    "countryCode": "us"
   }
 ]
