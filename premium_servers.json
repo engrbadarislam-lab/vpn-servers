@@ -8,5 +8,10 @@
     "name": "ISTANBUL",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdlJPbGhWVkZPazBWczAzMDI1empI@38.60.208.73:52762/?outline=1",
     "countryCode": "tr"
+  },
+  {
+    "name": "FRANCE",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbWQyUnRVM2FtVDN2d3RKV2FSY0Js@38.60.136.173:26440/?outline=1",
+    "countryCode": "fr"
   }
 ]
