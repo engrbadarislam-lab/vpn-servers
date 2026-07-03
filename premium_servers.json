@@ -18,5 +18,10 @@
     "name": "USA",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeEwxTWpTZHNLN3lJU1g1TDZPS2lv@38.54.108.163:62050/?outline=1",
     "countryCode": "us"
+  },
+  {
+    "name": "GERMANY",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZXpscW1BWUZQUkVJYWRQWGZieGRM@149.104.110.207:22728/?outline=1",
+    "countryCode": "de"
   }
 ]
