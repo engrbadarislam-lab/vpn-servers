@@ -5,22 +5,7 @@
     "config": "ss://YWVzLTI1Ni1nY206MWE5ZTE0MzAtMTIyNy00Y2EzLWJjZjktNTIwODFkODdmMWVm@38.244.209.215:443#Finland%20#29852%20/%20OutlineKeys.com",
     "countryCode": "fi"
   },
-  {
-    "name": "FINLAND",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Finland%20#28765%20/%20OutlineKeys.com",
-    "countryCode": "fi"
-  },
 
-  {
-    "name": "ITALY",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#Italy%20#28853%20/%20OutlineKeys.com",
-    "countryCode": "it"
-  },
-  {
-    "name": "POLAND",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Poland%20#28647%20/%20OutlineKeys.com",
-    "countryCode": "pl"
-  },
   {
     "name": "PORTUGAL",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#Portugal%20#23597%20/%20OutlineKeys.com",
@@ -64,11 +49,6 @@
   },
 
   {
-    "name": "INDIA",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India%20#21857%20/%20OutlineKeys.com",
-    "countryCode": "in"
-  },
-  {
     "name": "NIGERIA",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.255.123.110:990#t.me/OutlineVpnOfficial | Free | 2741 | Nigeria",
     "countryCode": "ng"
@@ -88,8 +68,6 @@
     "name": "ECUADOR",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#t.me/OutlineVpnOfficial | Free | 2643 | Ecuador",
     "countryCode": "ec"
-  },
-"countryCode": "ar"
   },
   {
     "name": "COSTA RICA",
