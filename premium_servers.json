@@ -39,4 +39,9 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZkRseVdWSWJQMHRXeVhheUw2RUNs@38.60.197.49:24363/?outline=1",
     "countryCode": "gb"
   }
+  {
+    "name": "Dubai",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNUFnbTQxYnBUa3A4RU82OXZWYjl1@38.54.75.174:14124/?outline=1",
+    "countryCode": "ae"
+}
 ]
