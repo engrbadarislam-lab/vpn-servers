@@ -33,5 +33,10 @@
     "name": "JAPAN",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptM1ZYVlJGWExqTjk0MVd2YnV5eVMw@38.54.88.167:6892/?outline=1",
     "countryCode": "jp"
+  },
+  {
+    "name": "UK",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZkRseVdWSWJQMHRXeVhheUw2RUNs@38.60.197.49:24363/?outline=1",
+    "countryCode": "gb"
   }
 ]
