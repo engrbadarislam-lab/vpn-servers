@@ -28,5 +28,10 @@
     "name": "SINGAPORE",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZG40c3lkN09qQ3NmVVBhZnU2WGNz@130.94.41.24:47121/?outline=1",
     "countryCode": "sg"
+  },
+  {
+    "name": "JAPAN",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptM1ZYVlJGWExqTjk0MVd2YnV5eVMw@38.54.88.167:6892/?outline=1",
+    "countryCode": "jp"
   }
 ]
