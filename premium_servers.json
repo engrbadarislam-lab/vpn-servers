@@ -1,52 +1,7 @@
 [
-  {
-    "name": "KOREA",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NFBucGJ3dVhYWmlOTHk0dzFiOUcw@130.94.29.77:6223/?outline=1",
-    "countryCode": "kr"
-  },
-  {
-    "name": "ISTANBUL",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdlJPbGhWVkZPazBWczAzMDI1empI@38.60.208.73:52762/?outline=1",
-    "countryCode": "tr"
-  },
-  {
-    "name": "FRANCE",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbWQyUnRVM2FtVDN2d3RKV2FSY0Js@38.60.136.173:26440/?outline=1",
-    "countryCode": "fr"
-  },
-  {
-    "name": "USA",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeEwxTWpTZHNLN3lJU1g1TDZPS2lv@38.54.108.163:62050/?outline=1",
+{
+    "name": "USA WASHINGTON",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWko2czZqaHJoR2FCUU1HeGxlc2xi@130.94.16.117:25359/?outline=1",
     "countryCode": "us"
-  },
-  {
-    "name": "GERMANY",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZXpscW1BWUZQUkVJYWRQWGZieGRM@149.104.110.207:22728/?outline=1",
-    "countryCode": "de"
-  },
-  {
-    "name": "SINGAPORE",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZG40c3lkN09qQ3NmVVBhZnU2WGNz@130.94.41.24:47121/?outline=1",
-    "countryCode": "sg"
-  },
-  {
-    "name": "JAPAN",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptM1ZYVlJGWExqTjk0MVd2YnV5eVMw@38.54.88.167:6892/?outline=1",
-    "countryCode": "jp"
-  },
-  {
-    "name": "UK",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZkRseVdWSWJQMHRXeVhheUw2RUNs@38.60.197.49:24363/?outline=1",
-    "countryCode": "gb"
-  },
-  {
-    "name": "Dubai",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNUFnbTQxYnBUa3A4RU82OXZWYjl1@38.54.75.174:14124/?outline=1",
-    "countryCode": "ae"
-  },
-  {
-    "name": "Marseille",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdFV3d0hvWlJFQVA3anc3OVRUVmpO@38.60.136.173:39202/?outline=1",
-    "countryCode": "fr"
   }
 ]
