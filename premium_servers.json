@@ -3,11 +3,15 @@
     "name": "USA WASHINGTON",
     "config": "RXsQwrOXnI3kfFp+HEEgoaIbJLvWoWnWaoh4Fn1wda5MWR2l3ZQcE90EvXTJH6PJNyJxvLWlTJWe3rX5sSTnLXvtQi6tXDIl9Rrxb2xZyKKbtQt5P8Ku/NlOjoVdVxTwPNvwd0wgwr+A5mesQc9+Dkc3pzBJBiyildjhXU9BkaQ=",
     "countryCode": "us"
-  }
-  ,
+  },
   {
-  "name": "GERMANY FRANKFURT",
-  "config": "RNZ1+IEGOPm5pzluXYp8wOxU4nPXunJumaXcdJDh971a4XSSFxrJ+VWbZCjsTbrMMrWEGqfJ4pM6rqyKccNSrHPHx0HPU8zH+20mEW6L+gMxgpUOHQSho+Hz41mZHdmAMcM+SS+jc5e8e4zLF3Kb2r37OWX8g0X1/yOcZhATpRaB9A84EOFgxkB2MCbpm12dnEXNpBrDEH4C1670Dnv4WA==",
-  "countryCode": "de"
-}
+    "name": "GERMANY FRANKFURT",
+    "config": "RNZ1+IEGOPm5pzluXYp8wOxU4nPXunJumaXcdJDh971a4XSSFxrJ+VWbZCjsTbrMMrWEGqfJ4pM6rqyKccNSrHPHx0HPU8zH+20mEW6L+gMxgpUOHQSho+Hz41mZHdmAMcM+SS+jc5e8e4zLF3Kb2r37OWX8g0X1/yOcZhATpRaB9A84EOFgxkB2MCbpm12dnEXNpBrDEH4C1670Dnv4WA==",
+    "countryCode": "de"
+  },
+  {
+    "name": "SINGAPORE",
+    "config": "E0SDip9EVnZTM3I+5Gq1frsec8XGzv3wKD1xvwnkYgztRH5v9vEry5Ei27VtpVTK19ILjUEd3c4w3o7dELSREoEtK+nTOJ3GaLrs01g/bf4afzhCZaTS1mJ/UidACvwtSL7h/9ICZotRu4bKZsRkRw==",
+    "countryCode": "sg"
+  }
 ]
