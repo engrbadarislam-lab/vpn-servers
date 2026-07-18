@@ -5,7 +5,7 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "pro": true,
+      "pro": false,
       "servers": [
         {
           "id": "sg-1",
@@ -21,7 +21,7 @@
     {
       "code": "DE",
       "name": "Germany",
-      "pro": true,
+      "pro": false,
       "servers": [
         {
           "id": "de-fra-1",
@@ -37,7 +37,7 @@
     {
       "code": "US",
       "name": "United States",
-      "pro": true,
+      "pro": false,
       "servers": [
         {
           "id": "us-1",
@@ -63,6 +63,22 @@
           "clientPrivateKey": "AA8eBwFtT50/2OVLInPViQQ9T9r6Ai6i0MrZfUVsAl8=",
           "presharedKey": "kTg39fouYkgDiWCi5Buuu/OUQro6LcAOa3rWdfGDDrw=",
           "endpoint": "130.94.57.7:53595"
+        }
+      ]
+    },
+    {
+      "code": "XX",
+      "name": "Unknown",
+      "pro": false,
+      "servers": [
+        {
+          "id": "xx-1",
+          "city": "Unknown",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "B8vrq/XGSGf0DyqNRWuDwKm/OPd3YQojC88O3A2jjiA=",
+          "clientPrivateKey": "ANiMV82QmjQmv/8WNjTpBMVyEm/8DDOjgADuAzuLnXw=",
+          "presharedKey": "t1ro8apW40dBU5Oa1nQJUy9QCG0hpnWgY+3JmuDr7fQ=",
+          "endpoint": "130.94.113.236:55790"
         }
       ]
     }
