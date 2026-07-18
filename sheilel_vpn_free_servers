@@ -49,6 +49,22 @@
           "endpoint": "130.94.16.117:60695"
         }
       ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "pro": false,
+      "servers": [
+        {
+          "id": "sa-1",
+          "city": "Riyadh",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "GpEozYmAwpPbyRKG1h8oL4eY2QeHLP0gTMqueURoOzI=",
+          "clientPrivateKey": "AA8eBwFtT50/2OVLInPViQQ9T9r6Ai6i0MrZfUVsAl8=",
+          "presharedKey": "kTg39fouYkgDiWCi5Buuu/OUQro6LcAOa3rWdfGDDrw=",
+          "endpoint": "130.94.57.7:53595"
+        }
+      ]
     }
   ]
 }
