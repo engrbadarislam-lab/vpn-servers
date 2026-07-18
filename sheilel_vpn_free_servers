@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-12T00:00:00Z",
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "pro": false,
+      "servers": [
+        {
+          "id": "it-mil-1",
+          "city": "Milan",
+          "load": 14,
+          "address": "10.7.0.2/32",
+          "dns": "1.1.1.1, 8.8.8.8",
+          "serverPublicKey": "PUT_SERVER_PUBLIC_KEY_HERE",
+          "clientPrivateKey": "PUT_CLIENT_PRIVATE_KEY_HERE",
+          "presharedKey": null,
+          "endpoint": "milan.yourdomain.com:51820",
+          "allowedIps": "0.0.0.0/0, ::/0"
+        },
+        {
+          "id": "it-tur-1",
+          "city": "Turin",
+          "load": 54,
+          "address": "10.7.0.3/32",
+          "dns": "1.1.1.1",
+          "serverPublicKey": "PUT_SERVER_PUBLIC_KEY_HERE",
+          "clientPrivateKey": "PUT_CLIENT_PRIVATE_KEY_HERE",
+          "endpoint": "turin.yourdomain.com:51820"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "pro": true,
+      "servers": [
+        {
+          "id": "jp-tyo-1",
+          "city": "Tokyo",
+          "load": 18,
+          "address": "10.8.0.2/32",
+          "dns": "1.1.1.1",
+          "serverPublicKey": "PUT_SERVER_PUBLIC_KEY_HERE",
+          "clientPrivateKey": "PUT_CLIENT_PRIVATE_KEY_HERE",
+          "endpoint": "tokyo.yourdomain.com:51820"
+        }
+      ]
+    }
+  ]
+}
