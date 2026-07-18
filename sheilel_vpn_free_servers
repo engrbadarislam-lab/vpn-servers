@@ -5,7 +5,7 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "pro": false,
+      "pro": true,
       "servers": [
         {
           "id": "sg-1",
@@ -21,7 +21,7 @@
     {
       "code": "DE",
       "name": "Germany",
-      "pro": false,
+      "pro": true,
       "servers": [
         {
           "id": "de-fra-1",
@@ -37,7 +37,7 @@
     {
       "code": "US",
       "name": "United States",
-      "pro": false,
+      "pro": true,
       "servers": [
         {
           "id": "us-1",
@@ -53,7 +53,7 @@
     {
       "code": "SA",
       "name": "Saudi Arabia",
-      "pro": false,
+      "pro": true,
       "servers": [
         {
           "id": "sa-1",
