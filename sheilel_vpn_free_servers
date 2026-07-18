@@ -17,6 +17,22 @@
           "endpoint": "130.94.41.244:51921"
         }
       ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "pro": false,
+      "servers": [
+        {
+          "id": "de-fra-1",
+          "city": "Frankfurt",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "5TuqAf/u3vq+lnhHGVePt7KDxccEoFfeWy2u5jQQPwA=",
+          "clientPrivateKey": "4Ed/1SaRXydoclJTbzXrR6BBC+ZitAmzOyPPB33kDFU=",
+          "presharedKey": "ZrXprPbo888MfFMqKujkmbs7cLaDa6TA8dqkP6ZgouQ=",
+          "endpoint": "38.54.13.111:60546"
+        }
+      ]
     }
   ]
 }
