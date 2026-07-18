@@ -37,16 +37,25 @@
     {
       "code": "US",
       "name": "United States",
-      "pro": true,
+      "pro": false,
       "servers": [
         {
           "id": "us-1",
-          "city": "USA",
+          "city": "New York",
           "address": "10.66.66.2/32",
           "serverPublicKey": "yetcsIVgUl8ffLlPdItHrTF9V9V50rDcHQsD7GGON0A=",
           "clientPrivateKey": "aMrJnyLj55b8mL+0lPXqOfEvVIL1Qwjfj+e1240qQUI=",
           "presharedKey": "S3kf3Q4aJp5GniYNR/M72Ql8ckq9izAPdCme/FJbUoM=",
           "endpoint": "130.94.16.117:60695"
+        },
+        {
+          "id": "us-2",
+          "city": "Silicon Valley",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "Z6JOIgb5mlyLul2YikeGMS0+xtF2KkFuqon+0l8Q2Tk=",
+          "clientPrivateKey": "CASlJ1Xgwq2OtCcUmUtINwKUsnFduChGXoPXPoCx6Fs=",
+          "presharedKey": "EQS3/blEGVVwouFOjy38/WFjtyJou87kmcv8dPIlPO0=",
+          "endpoint": "130.94.15.31:52186"
         }
       ]
     },
