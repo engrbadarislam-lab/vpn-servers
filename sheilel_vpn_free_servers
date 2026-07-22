@@ -34,22 +34,7 @@
         }
       ]
     },
-    {
-      "code": "US",
-      "name": "United States",
-      "pro": true,
-      "servers": [
-        {
-          "id": "us-1",
-          "city": "New York",
-          "address": "10.66.66.2/32",
-          "serverPublicKey": "yetcsIVgUl8ffLlPdItHrTF9V9V50rDcHQsD7GGON0A=",
-          "clientPrivateKey": "aMrJnyLj55b8mL+0lPXqOfEvVIL1Qwjfj+e1240qQUI=",
-          "presharedKey": "S3kf3Q4aJp5GniYNR/M72Ql8ckq9izAPdCme/FJbUoM=",
-          "endpoint": "130.94.16.117:60695"
-        }
-      ]
-    },
+
     {
       "code": "US",
       "name": "United States",
