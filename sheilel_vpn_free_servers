@@ -36,22 +36,6 @@
     },
 
     {
-      "code": "US",
-      "name": "United States",
-      "pro": false,
-      "servers": [
-        {
-          "id": "us-2",
-          "city": "Silicon Valley",
-          "address": "10.66.66.2/32",
-          "serverPublicKey": "Z6JOIgb5mlyLul2YikeGMS0+xtF2KkFuqon+0l8Q2Tk=",
-          "clientPrivateKey": "CASlJ1Xgwq2OtCcUmUtINwKUsnFduChGXoPXPoCx6Fs=",
-          "presharedKey": "EQS3/blEGVVwouFOjy38/WFjtyJou87kmcv8dPIlPO0=",
-          "endpoint": "130.94.15.31:52186"
-        }
-      ]
-    },
-    {
       "code": "SA",
       "name": "Saudi Arabia",
       "pro": true,
