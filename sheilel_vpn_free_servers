@@ -52,8 +52,8 @@
       ]
     },
     {
-      "code": "BH",
-      "name": "Bucharest",
+      "code": "xx",
+      "name": "xx",
       "pro": false,
       "servers": [
         {
