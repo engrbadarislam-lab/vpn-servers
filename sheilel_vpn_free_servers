@@ -35,6 +35,22 @@
       ]
     },
     {
+      "code": "BR",
+      "name": "Brazil",
+      "pro": false,
+      "servers": [
+        {
+          "id": "br-sao-1",
+          "city": "Sao Paulo",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "jLKsX0qMr8ir3oO4MnLM98EcroUi0Qp+N/fJl19bLi8=",
+          "clientPrivateKey": "AEP9P3AZ4nznVEpQ6tqiMBibvYIwQK+mRKQwkhxN0Gk=",
+          "presharedKey": "eRu4mfGElFRgPiPzSTBgN+u8uGL9iSlUvR7GJ2MCVI4=",
+          "endpoint": "38.60.242.198:61579"
+        }
+      ]
+    },
+    {
       "code": "US",
       "name": "United States (Washington)",
       "pro": true,
