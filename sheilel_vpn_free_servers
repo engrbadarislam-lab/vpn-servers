@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T00:00:00Z",
+  "updatedAt": "2026-07-23T00:00:00Z",
   "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "pro": false,
+      "servers": [
+        {
+          "id": "us-svl-1",
+          "city": "Silicon Valley",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "Z6JOIgb5mlyLul2YikeGMS0+xtF2KkFuqon+0l8Q2Tk=",
+          "clientPrivateKey": "CASlJ1Xgwq2OtCcUmUtINwKUsnFduChGXoPXPoCx6Fs=",
+          "presharedKey": "EQS3/blEGVVwouFOjy38/WFjtyJou87kmcv8dPIlPO0=",
+          "endpoint": "130.94.15.31:52186"
+        }
+      ]
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "pro": false,
+      "servers": [
+        {
+          "id": "ro-buc-1",
+          "city": "Bucharest",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "B8vrq/XGSGf0DyqNRWuDwKm/OPd3YQojC88O3A2jjiA=",
+          "clientPrivateKey": "ANiMV82QmjQmv/8WNjTpBMVyEm/8DDOjgADuAzuLnXw=",
+          "presharedKey": "t1ro8apW40dBU5Oa1nQJUy9QCG0hpnWgY+3JmuDr7fQ=",
+          "endpoint": "130.94.113.236:55790"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States (Washington)",
+      "pro": true,
+      "servers": [
+        {
+          "id": "us-was-1",
+          "city": "Washington",
+          "address": "10.66.66.2/32",
+          "serverPublicKey": "yetcsIVgUl8ffLlPdItHrTF9V9V50rDcHQsD7GGON0A=",
+          "clientPrivateKey": "aMrJnyLj55b8mL+0lPXqOfEvVIL1Qwjfj+e1240qQUI=",
+          "presharedKey": "S3kf3Q4aJp5GniYNR/M72Ql8ckq9izAPdCme/FJbUoM=",
+          "endpoint": "130.94.16.117:60695"
+        }
+      ]
+    },
     {
       "code": "SG",
       "name": "Singapore",
@@ -35,31 +83,6 @@
       ]
     },
     {
-      "code": "US",
-      "name": "United States",
-      "pro": true,
-      "servers": [
-        {
-          "id": "us-1",
-          "city": "New York",
-          "address": "10.66.66.2/32",
-          "serverPublicKey": "yetcsIVgUl8ffLlPdItHrTF9V9V50rDcHQsD7GGON0A=",
-          "clientPrivateKey": "aMrJnyLj55b8mL+0lPXqOfEvVIL1Qwjfj+e1240qQUI=",
-          "presharedKey": "S3kf3Q4aJp5GniYNR/M72Ql8ckq9izAPdCme/FJbUoM=",
-          "endpoint": "130.94.16.117:60695"
-        },
-        {
-          "id": "us-2",
-          "city": "Silicon Valley",
-          "address": "10.66.66.2/32",
-          "serverPublicKey": "Z6JOIgb5mlyLul2YikeGMS0+xtF2KkFuqon+0l8Q2Tk=",
-          "clientPrivateKey": "CASlJ1Xgwq2OtCcUmUtINwKUsnFduChGXoPXPoCx6Fs=",
-          "presharedKey": "EQS3/blEGVVwouFOjy38/WFjtyJou87kmcv8dPIlPO0=",
-          "endpoint": "130.94.15.31:52186"
-        }
-      ]
-    },
-    {
       "code": "SA",
       "name": "Saudi Arabia",
       "pro": true,
@@ -72,22 +95,6 @@
           "clientPrivateKey": "AA8eBwFtT50/2OVLInPViQQ9T9r6Ai6i0MrZfUVsAl8=",
           "presharedKey": "kTg39fouYkgDiWCi5Buuu/OUQro6LcAOa3rWdfGDDrw=",
           "endpoint": "130.94.57.7:53595"
-        }
-      ]
-    },
-    {
-      "code": "XX",
-      "name": "Unknown",
-      "pro": false,
-      "servers": [
-        {
-          "id": "xx-1",
-          "city": "Unknown",
-          "address": "10.66.66.2/32",
-          "serverPublicKey": "B8vrq/XGSGf0DyqNRWuDwKm/OPd3YQojC88O3A2jjiA=",
-          "clientPrivateKey": "ANiMV82QmjQmv/8WNjTpBMVyEm/8DDOjgADuAzuLnXw=",
-          "presharedKey": "t1ro8apW40dBU5Oa1nQJUy9QCG0hpnWgY+3JmuDr7fQ=",
-          "endpoint": "130.94.113.236:55790"
         }
       ]
     }
